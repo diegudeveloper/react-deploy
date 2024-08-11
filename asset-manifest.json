@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diegudeveloper/react-deploy/static/css/main.2d06ce42.css",
+    "main.js": "/diegudeveloper/react-deploy/static/js/main.d6b7df4f.js",
+    "index.html": "/diegudeveloper/react-deploy/index.html",
+    "main.2d06ce42.css.map": "/diegudeveloper/react-deploy/static/css/main.2d06ce42.css.map",
+    "main.d6b7df4f.js.map": "/diegudeveloper/react-deploy/static/js/main.d6b7df4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d06ce42.css",
+    "static/js/main.d6b7df4f.js"
+  ]
+}
